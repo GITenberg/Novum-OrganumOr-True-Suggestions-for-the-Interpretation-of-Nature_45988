@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '43557'
     url: http://www.gutenberg.org/2009/agents/43557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45988#Novum-OrganumOr-True-Suggestions-for-the-Interpretation-of-Nature
 gutenberg_issued: '2014-06-15'
 gutenberg_type: Text
 identifiers:
